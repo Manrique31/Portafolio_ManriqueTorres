@@ -1,4 +1,4 @@
-package Tienda.demo;
+package TiendaManriqueTorres.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
