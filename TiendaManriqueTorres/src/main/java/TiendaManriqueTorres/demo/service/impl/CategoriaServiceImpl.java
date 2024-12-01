@@ -4,6 +4,7 @@
  */
 package TiendaManriqueTorres.demo.service.impl;
 
+
 import TiendaManriqueTorres.demo.dao.CategoriaDao;
 import TiendaManriqueTorres.demo.domain.Categoria;
 import TiendaManriqueTorres.demo.service.CategoriaService;
@@ -11,7 +12,6 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-
 @Service
 public class CategoriaServiceImpl implements CategoriaService {
 

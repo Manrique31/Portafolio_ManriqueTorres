@@ -4,6 +4,7 @@
  */
 package TiendaManriqueTorres.demo.controller;
 
+
 import TiendaManriqueTorres.demo.domain.Categoria;
 import TiendaManriqueTorres.demo.service.CategoriaService;
 import TiendaManriqueTorres.demo.service.ProductoService;
@@ -14,7 +15,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
-
 
 @Controller
 @RequestMapping("/pruebas")
